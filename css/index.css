@@ -1,3 +1,9 @@
 .nav-wrapper{
     padding: 0 100px;
 }
+.wrap{
+    min-width: 1280px;
+    max-width: 320px;
+    box-sizing: border-box;
+    margin: 0 auto;
+}
